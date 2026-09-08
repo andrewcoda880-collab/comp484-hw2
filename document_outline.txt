@@ -1,0 +1,22 @@
+tag descriptions/uses -
+
+<nav> - used for sections where there is internal site navigation - moving around on the current page, or for moving to other pages within the website.
+should not be used for links to other websites
+
+<article> - used for artciles within the website. These articles should hold up on their own, meaning that the content of
+these pages taken outside of the context of the website should still make sense
+
+<sections> - used for sections within the website that are clear and distinct, but wouldn't make sense outside of the scope
+of the website. Usually used within artciles
+
+<aside> - used for side notes/warnings that pertain to the information presented in the article, but aren't as significant
+to the content of the article as sections
+
+semantic tags - used for screen readers + other accessibility related devices
+
+<header> - Used to introduce sections/articles/divs that follow. Not limited to one header per page, although I think you only want to use one. 
+
+<footer> - Used for extra information that you might need. Copyright data, links to privacy pages, address, etc.
+
+<main> - Used for the main part of the content of the page. Surrounds articles, sections, divs. Used for screen readers and search engines to analyze content of your page. 
+
