@@ -6,7 +6,7 @@ For this hw you’ll be planning and implementing a semantic structuring strateg
              a.	Applies to: structure.html
              b.	Open the structure.html file and explore the page structure and ARIA roles. Write out the document outline, and how structural tags like aside, article, nav, and section are being used.
              c.	Examine how semantic tags like the header, footer, main, etc are used.
-             d. review slide #7 of the lecture slides.Create a diagram of how the tags would look like in this HW website. Take a screenshot of the diagram and add it to the images folder.
+             d. review slide #7 of the lecture slides. Create a diagram of how the tags would look like in this HW website. Take a screenshot of the diagram and add it to the images folder.
              e. review slide #10 of the lecture slides. Use the website(s) provided or other alternative options to generate a document outline. Take a screenshot of the outline and add it to the images folder.
 2.	Structure pages
              a.	Applies to: all .html pages
